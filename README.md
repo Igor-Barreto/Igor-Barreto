@@ -3,7 +3,7 @@ Olá! Seja bem vindo ao meu perfil! 🤙
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igorbarreto10/)
 
 ![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=Igor-Barreto&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-Barreto&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-Barreto&layout=compact&theme=onedark)
 
 ## Tecnologias que estou estudando
 <div style="display: inline_block"><br/>
